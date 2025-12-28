@@ -138,5 +138,3 @@ Use responsibly.
 ---
 
 👤 Developed by **17m08**
-
-```
